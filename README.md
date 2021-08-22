@@ -1,5 +1,5 @@
-# Leetcode-Rotate-Image---Medium-difficulty-beats-75-of-solutions
-a solution in JS:
+# Leetcode-Rotate-Image---Medium-difficulty-beats-72%-of-solutions
+solution in JS:
 
 the problem: 
 
